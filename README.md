@@ -17,7 +17,6 @@ The code of Recurrent Appearance Flow for Occlusion-Free Virtual Try-On will be 
 |Flow-Style|9.93| 
 |OccluMix|9.64|
 |DAFlow| 11.43|
-|
 |Our Method|**9.32**|
 
 
