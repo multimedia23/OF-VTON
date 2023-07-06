@@ -22,3 +22,10 @@ The code of Recurrent Appearance Flow for Occlusion-Free Virtual Try-On will be 
 ### Relationship between the iteration number and FID
 ![Relationship between the number of iterations set for RAFD and FID](asserts/iterstoFID.png)
 
+### Comparison of parameter count, inference time, and FID among different methods
+| Methods  | Parameters (M) |Inference Time(Millisecond)|FID|
+|--------------|-----------|-----------|-----------|
+| PF-AFN  | 29.304 |28.46 |11.12 |
+| Flow-Style | 32.323 |28.99 |9.93 |
+| Our Method (iteration number = 2) | 7.911 |26.99 |9.48|
+| Our Method (iteration number = 10) | 7.911 |59.36 |9.32 |
