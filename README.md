@@ -19,6 +19,6 @@ The code of Recurrent Appearance Flow for Occlusion-Free Virtual Try-On will be 
 |DAFlow| 11.43|0.843|0.1585|
 |Our Method|**9.32**|**0.908**|**0.1379**|
 
-
-
+### Relationship between the iteration number and FID
+![Relationship between the number of iterations set for RAFD and FID](asserts/iterstoFID.png)
 
